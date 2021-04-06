@@ -1,4 +1,4 @@
-# AutoEncoder_ exapmles
+# AutoEncoder_ examples
 There are two 1D CNN auto-encoders examples, they can be reconfigurable in both input and output according to your compression needs  
 
 Example of CNN Auto-encoder_01
