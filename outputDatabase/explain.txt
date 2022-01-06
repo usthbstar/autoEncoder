@@ -1,1 +1,13 @@
 
+After applying out proposed steganographic method (SIAE scheme). we have two speech databases:
+
+1) Original database coded by G723.1 coder (cover speech).
+2) The output database after pplying our SIAE scheme over G723.1 (stego speech.)
+
+These two databases are very important to test a built Steganalysis schemes that suppose to uncover the SIAE method. 
+
+Researchers that interest on it can contact me, in the following email: hamza.kheddar@gmail.com
+
+please do not forget to cite the following paper
+
+
