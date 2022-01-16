@@ -8,6 +8,15 @@ These two databases are very important to test a built Steganalysis schemes that
 
 Researchers that interest on it can contact me, in the following email: hamza.kheddar@gmail.com
 
-please do not forget to cite the following paper
+please do not forget to cite the following paper:
+
+@article{kheddar2022high,
+  title={High capacity speech steganography for the G723. 1 coder based on quantised line spectral pairs interpolation and CNN auto-encoding},
+  author={Kheddar, Hamza and Meg{\'\i}as, David},
+  journal={Applied Intelligence},
+  pages={1--19},
+  year={2022},
+  publisher={Springer}
+}
 
 
