@@ -16,7 +16,7 @@ Example of CNN Auto-decoder_example01
 CNN-AutoDecoder expands the feature-map to its original format (polynomial coefficients) with negligible changes. The above figure illustrates the architecture of the decoding part of the CNN decoder used in our scheme. The design of the decoder structure can be very similar (symmetric) or dissimilar to the encoder architecture. The proposed CNN decoder consists of cascaded 1D up-sampling and 1D convolutional layers. The first 1D up-sample layer doubles the dimensions of the input feature 1X2 according to a given up-sampling size (P=2). Then, 1D convolution is applied using a transposed filter with three filters of sizes 4X4. The features are then up-sampled to eight times larger than its last size resulting in a feature of dimension 16X4. The latter output is then processed by two cascaded convolutions with three filters of sizes 8X8 each, and up-sampled again ten times. The final 1D convolution layer with three filters sized 1X1 results in the retrieved original signal (polynomial coefficients) with the original size of 160X1.  
 
 
-
+The Original (cover speech) and the output (stego speech after using SIAE) Databases are available in [KAGGLE](www.kaggle.com/hamzakheddar/SIAE-DB-Speech)
 
 Please cite the following paper if you find the database usefull in your new steganalysis or steganography research, or if you quote some parts of the research paper that fit your research you conduct. 
 
