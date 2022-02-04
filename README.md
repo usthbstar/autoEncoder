@@ -20,6 +20,7 @@ CNN-AutoDecoder expands the feature-map to its original format (polynomial coeff
 
 Please cite the following paper if you find the database usefull in your new steganalysis or steganography research, or if you quote some parts of the research paper that fit your research you conduct. 
 
+```
 @article{kheddar2022high,
   title={High capacity speech steganography for the G723. 1 coder based on quantised line spectral pairs interpolation and CNN auto-encoding},
   author={Kheddar, Hamza and Meg{\'\i}as, David},
@@ -28,4 +29,5 @@ Please cite the following paper if you find the database usefull in your new ste
   year={2022},
   publisher={Springer}
 
+```
 
